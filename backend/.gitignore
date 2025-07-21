@@ -1,0 +1,32 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter Notebooks checkpoints (if used)
+.ipynb_checkpoints/
+
+# Model files (can be large or generated at runtime)
+model/*.pkl
+model/*.joblib
+*.h5
+*.sav
+
+# Virtual environment
+venv/
+env/
+.venv/
+.env/
+.envrc
+
+# Mac/Linux system files
+.DS_Store
+
+# Logs or temp files
+*.log
+*.tmp
+*.bak
+
+# VSCode or PyCharm config (optional)
+.vscode/
+.idea/
