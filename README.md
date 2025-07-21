@@ -3,7 +3,7 @@
 A full-stack machine learning web application that predicts employee salaries based on their profile and provides intelligent career suggestions using a GenAI assistant.
 
 ## 🧱 Project Structure
-
+```
 SalaryPredictionApp/
 │
 ├── frontend/ # React.js UI for prediction & suggestions
@@ -14,6 +14,7 @@ SalaryPredictionApp/
 │
 │
 └── README.md # This file (main GitHub readme)
+```
 
 ## 🚀 Features
 
